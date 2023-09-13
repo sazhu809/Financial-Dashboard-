@@ -27,3 +27,5 @@ To fulfill the project requirement, team members visualized data using different
 
 # Conclusion
 The Stock Market and GDP inflation are negative reflections of each other. The GDP increases at a steady rate vs the stock market which fluctuates more.
+Created by: Lauren Huffmire, Farrukh Sultani, Kenan White, Sara Zhu, and Diego Lazaro
+
